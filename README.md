@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **Noah-McC/Noah-McC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi, I’m Noah
+- 👀 I’m interested in learning as much as possible about programming
+- 🌱 I’m currently learning computer programming and analysis at conestoga college
+- 📫 How to reach me noah.mc@icloud.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to Simrace, Mountain Bike, Skateboard and, Code of course.
