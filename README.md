@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I’m Noah
 - 👀 I’m interested in learning as much as possible about programming
-- 🌱 I’m currently learning computer programming and analysis at conestoga college
+- 🌱 I’ve graduated from Conestoga College in the Computer Programming & Analysis program with Distinction
 - 📫 How to reach me noah.mc@icloud.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to Simrace, Mountain Bike, Skateboard and, Code of course.
